@@ -48,6 +48,7 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
     - [Photo Search Engines](#photo-search-engines)
     - [SVG Generators](#svg-generators)
     - [Text Editors](#text-editors)
+    - [Tool Collections](#tool-collections)
     - [Vector Graphics Editors](#vector-graphics-editors)
     - [Video Editing Tools](#video-editing-tools)
     - [Videos](#videos)
@@ -232,6 +233,12 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
 | [Notion](https://www.notion.so)   | Web, Win, MacOS, Android, iOS   | 🆓 / ⏫                  |
 | [Obsidian](https://obsidian.md)   | Win, MacOS, Linux, Android, iOS | 🆓 for personal use / ⏫ |
 | [Trello](https://trello.com/home) | Web, Win, MacOS, Android, iOS   | 🆓 / ⏫                  |
+
+### Tool Collections
+
+| Resource                       | Description                                        | Platform | Price |
+| ------------------------------ | -------------------------------------------------- | -------- | ----- |
+| [TinyWow](https://tinywow.com) | It offers PDF, video, image and other online tools | Web      | 🆓    |
 
 ### Vector Graphics Editors
 
