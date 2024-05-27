@@ -28,6 +28,7 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
   - [Table of Contents](#table-of-contents)
     - [Book Collections](#book-collections)
     - [Code Editors](#code-editors)
+    - [Courses](#courses)
     - [Fonts](#fonts)
     - [Game Assets](#game-assets)
     - [Icons](#icons)
@@ -56,6 +57,13 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
 | [Project IDX](https://idx.google.com)               | Web               | 🆓    |
 | [Vim](https://www.vim.org)                          | Win, MacOS, Linux | 🆓    |
 | [Visual Studio Code](https://code.visualstudio.com) | Win, MacOS, Linux | 🆓    |
+
+### Courses
+
+| Resource                             | Price |
+| ------------------------------------ | ----- |
+| [Coursera](https://www.coursera.org) | 🛒    |
+| [Udemy](https://www.udemy.com)       | 🛒    |
 
 ### Fonts
 
