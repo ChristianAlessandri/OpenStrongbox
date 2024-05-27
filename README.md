@@ -28,18 +28,23 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
   - [Table of Contents](#table-of-contents)
     - [Book Collections](#book-collections)
     - [Code Editors](#code-editors)
+    - [Color Generators](#color-generators)
     - [Courses](#courses)
     - [Fonts](#fonts)
     - [Game Assets](#game-assets)
     - [Icons](#icons)
     - [IDEs](#ides)
     - [IDEs for Game Dev](#ides-for-game-dev)
+    - [Illustrations](#illustrations)
     - [Images](#images)
+    - [Image Compressors](#image-compressors)
     - [Inspiration](#inspiration)
     - [Painting Programs](#painting-programs)
     - [Photo Editors](#photo-editors)
     - [Photo Search Engine](#photo-search-engine)
+    - [SVG Generators](#svg-generators)
     - [Text Editors](#text-editors)
+    - [Videos](#videos)
 
 ### Book Collections
 
@@ -57,6 +62,13 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
 | [Project IDX](https://idx.google.com)               | Web               | 🆓    |
 | [Vim](https://www.vim.org)                          | Win, MacOS, Linux | 🆓    |
 | [Visual Studio Code](https://code.visualstudio.com) | Win, MacOS, Linux | 🆓    |
+
+### Color Generators
+
+| Resource                                  | Price |
+| ----------------------------------------- | ----- |
+| [Chroma](https://chroma.dev)              | 🆓    |
+| [Mesh Gradient](https://meshgradient.com) | 🆓    |
 
 ### Courses
 
@@ -112,6 +124,12 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
 | [Unity](https://unity.com/products)                          | Win, MacOS, Linux               | 🆓 only Student and Personal Version / ⏫                                                                                               |
 | [Unreal Engine](https://www.unrealengine.com/en-US/download) | Win, MacOS, Linux               | 🆓 to use for students, educators, hobbyists, and most non-games companies making less than $1 million USD in annual gross revenue / ⏫ |
 
+### Illustrations
+
+| Resource                                               | Price   |
+| ------------------------------------------------------ | ------- |
+| [Open Stickers](https://openstickers.craftwork.design) | 🆓 / ⏫ |
+
 ### Images
 
 | Resource                               | Price                    |
@@ -121,6 +139,12 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
 | [Pexels](https://www.pexels.com)       | 🆓                       |
 | [Pixabay](https://pixabay.com)         | 🆓                       |
 | [Unsplash](https://unsplash.com)       | 🆓 / ⏫                  |
+
+### Image Compressors
+
+| Resource                            | Price   |
+| ----------------------------------- | ------- |
+| [Compressor](https://compressor.io) | 🆓 / ⏫ |
 
 ### Inspiration
 
@@ -151,6 +175,13 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
 | [Cosmos](https://www.cosmos.so)        |
 | [Pinterest](https://www.pinterest.com) |
 
+### SVG Generators
+
+| Resource                                   |
+| ------------------------------------------ |
+| [fffuel](https://www.fffuel.co)            |
+| [Super Designer](https://superdesigner.co) |
+
 ### Text Editors
 
 | Resource                          | Platform                        | Price                    |
@@ -159,3 +190,9 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
 | [Notion](https://www.notion.so)   | Web, Win, MacOS, Android, iOS   | 🆓 / ⏫                  |
 | [Obsidian](https://obsidian.md)   | Win, MacOS, Linux, Android, iOS | 🆓 for personal use / ⏫ |
 | [Trello](https://trello.com/home) | Web, Win, MacOS, Android, iOS   | 🆓 / ⏫                  |
+
+### Videos
+
+| Resource                    | Price   |
+| --------------------------- | ------- |
+| [Coverr](https://coverr.co) | 🆓 / ⏫ |
