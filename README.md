@@ -32,6 +32,7 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
     - [Code Editors](#code-editors)
     - [Color Generators](#color-generators)
     - [Courses](#courses)
+    - [File Converters](#file-converters)
     - [Fonts](#fonts)
     - [Game Assets](#game-assets)
     - [Game Engines](#game-engines)
@@ -99,6 +100,12 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
 | [Coursera](https://www.coursera.org) | 🛒    |
 | [Udemy](https://www.udemy.com)       | 🛒    |
 
+### File Converters
+
+| Resource                          | Platform | Price   |
+| --------------------------------- | -------- | ------- |
+| [Convertio](https://convertio.co) | Web      | 🆓 / ⏫ |
+
 ### Fonts
 
 | Resource                                 | Price |
@@ -120,13 +127,13 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
 
 ### Game Engines
 
-| Resource                                                     | Platform                        | Price                                                                                                                                   |
-| ------------------------------------------------------------ | ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| [Construct](https://www.construct.net)                       | Web                             | 🆓 / ⏫                                                                                                                                 |
-| [Game Maker](https://gamemaker.io)                           | Win, MacOS                      | 🆓 / ⏫                                                                                                                                 |
-| [Godot](https://godotengine.org/download)                    | Web, Win, MacOS, Linux, Android | 🆓                                                                                                                                      |
-| [Unity](https://unity.com/products)                          | Win, MacOS, Linux               | 🆓 only Student and Personal Version / ⏫                                                                                               |
-| [Unreal Engine](https://www.unrealengine.com/en-US/download) | Win, MacOS, Linux               | 🆓 to use for students, educators, hobbyists, and most non-games companies making less than $1 million USD in annual gross revenue / ⏫ |
+| Resource                                                     | Platform                        | Price   |
+| ------------------------------------------------------------ | ------------------------------- | ------- |
+| [Construct](https://www.construct.net)                       | Web                             | 🆓 / ⏫ |
+| [Game Maker](https://gamemaker.io)                           | Win, MacOS                      | 🆓 / ⏫ |
+| [Godot](https://godotengine.org/download)                    | Web, Win, MacOS, Linux, Android | 🆓      |
+| [Unity](https://unity.com/products)                          | Win, MacOS, Linux               | 🆓 / ⏫ |
+| [Unreal Engine](https://www.unrealengine.com/en-US/download) | Win, MacOS, Linux               | 🆓 / ⏫ |
 
 ### Icons
 
@@ -153,6 +160,7 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
 | Resource                                               | Price   |
 | ------------------------------------------------------ | ------- |
 | [Open Stickers](https://openstickers.craftwork.design) | 🆓 / ⏫ |
+| [Vertex](https://vertex.im)                            | 🆓      |
 
 ### Image Compressors
 
@@ -162,10 +170,11 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
 
 ### Image Makers
 
-| Resource                        | Description                                                | Platform | Price |
-| ------------------------------- | ---------------------------------------------------------- | -------- | ----- |
-| [Carbon](https://carbon.now.sh) | Create and share beautiful images of your source code      | Web      | 🆓    |
-| [Poet.so](https://poet.so)      | Capture and share X (ex Twitter) posts as beautiful images | Web      | 🆓    |
+| Resource                                  | Description                                                | Platform | Price |
+| ----------------------------------------- | ---------------------------------------------------------- | -------- | ----- |
+| [Carbon](https://carbon.now.sh)           | Create and share beautiful images of your source code      | Web      | 🆓    |
+| [Profile Pic Maker](https://pfpmaker.com) | Create an awesome profile picture                          | Web      | 🆓    |
+| [Poet.so](https://poet.so)                | Capture and share X (ex Twitter) posts as beautiful images | Web      | 🆓    |
 
 ### Images
 
