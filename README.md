@@ -27,6 +27,7 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
   - [How to Read this File](#how-to-read-this-file)
   - [Table of Contents](#table-of-contents)
     - [AI Chat](#ai-chat)
+    - [AI Image Generator](#ai-image-generator)
     - [Book Collections](#book-collections)
     - [Code Editors](#code-editors)
     - [Color Generators](#color-generators)
@@ -37,8 +38,9 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
     - [Icons](#icons)
     - [IDEs](#ides)
     - [Illustrations](#illustrations)
-    - [Images](#images)
     - [Image Compressors](#image-compressors)
+    - [Image Makers](#image-makers)
+    - [Images](#images)
     - [Inspiration](#inspiration)
     - [Painting Programs](#painting-programs)
     - [Photo Editors](#photo-editors)
@@ -46,7 +48,9 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
     - [SVG Generators](#svg-generators)
     - [Text Editors](#text-editors)
     - [Vector Graphics Editors](#vector-graphics-editors)
+    - [Video Editing Tools](#video-editing-tools)
     - [Videos](#videos)
+    - [Web Development Tools](#web-development-tools)
 
 ### AI Chat
 
@@ -57,6 +61,12 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
 | [Copilor](https://copilot.microsoft.com) | Web, Android, iOS | 🆓 / ⏫ |
 | [Gemini](https://gemini.google.com/app)  | Web               | 🆓 / ⏫ |
 | [Jasper](https://www.jasper.ai)          | Web               | 💰      |
+
+### AI Image Generator
+
+| Resource                                   | Platform | Price   |
+| ------------------------------------------ | -------- | ------- |
+| [Adobe Firefly](https://firefly.adobe.com) | Web      | 🆓 / ⏫ |
 
 ### Book Collections
 
@@ -144,6 +154,19 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
 | ------------------------------------------------------ | ------- |
 | [Open Stickers](https://openstickers.craftwork.design) | 🆓 / ⏫ |
 
+### Image Compressors
+
+| Resource                            | Price   |
+| ----------------------------------- | ------- |
+| [Compressor](https://compressor.io) | 🆓 / ⏫ |
+
+### Image Makers
+
+| Resource                        | Description                                                | Platform | Price |
+| ------------------------------- | ---------------------------------------------------------- | -------- | ----- |
+| [Carbon](https://carbon.now.sh) | Create and share beautiful images of your source code      | Web      | 🆓    |
+| [Poet.so](https://poet.so)      | Capture and share X (ex Twitter) posts as beautiful images | Web      | 🆓    |
+
 ### Images
 
 | Resource                               | Price   |
@@ -153,12 +176,6 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
 | [Pexels](https://www.pexels.com)       | 🆓      |
 | [Pixabay](https://pixabay.com)         | 🆓      |
 | [Unsplash](https://unsplash.com)       | 🆓 / ⏫ |
-
-### Image Compressors
-
-| Resource                            | Price   |
-| ----------------------------------- | ------- |
-| [Compressor](https://compressor.io) | 🆓 / ⏫ |
 
 ### Inspiration
 
@@ -177,10 +194,11 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
 
 ### Photo Editors
 
-| Resource                                                   | Platform          | Price |
-| ---------------------------------------------------------- | ----------------- | ----- |
-| [GIMP](https://www.gimp.org/downloads/)                    | Win, MacOS, Linux | 🆓    |
-| [Photoshop](https://www.adobe.com/products/photoshop.html) | Win, MacOS        | 💰    |
+| Resource                                                   | Platform          | Price   |
+| ---------------------------------------------------------- | ----------------- | ------- |
+| [Canva](https://www.canva.com)                             | Web               | 🆓 / ⏫ |
+| [GIMP](https://www.gimp.org/downloads/)                    | Win, MacOS, Linux | 🆓      |
+| [Photoshop](https://www.adobe.com/products/photoshop.html) | Win, MacOS        | 💰      |
 
 ### Photo Search Engines
 
@@ -191,10 +209,11 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
 
 ### SVG Generators
 
-| Resource                                   |
-| ------------------------------------------ |
-| [fffuel](https://www.fffuel.co)            |
-| [Super Designer](https://superdesigner.co) |
+| Resource                                   | Price |
+| ------------------------------------------ | ----- |
+| [fffuel](https://www.fffuel.co)            | 🆓    |
+| [Super Designer](https://superdesigner.co) | 🆓    |
+| [Svg Wave](https://svgwave.in)             | 🆓    |
 
 ### Text Editors
 
@@ -213,8 +232,23 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
 | [Inkscape](https://inkscape.org)                                     | Win, MacOS, Linux | 🆓      |
 | [Vectr](https://vectr.com)                                           | Web               | 🆓 / ⏫ |
 
+### Video Editing Tools
+
+| Resource                                                                    | Platform                      | Price   |
+| --------------------------------------------------------------------------- | ----------------------------- | ------- |
+| [Canva](https://www.canva.com)                                              | Web                           | 🆓 / ⏫ |
+| [CapCut](https://www.capcut.com)                                            | Web, Win, MacOS, Android, iOS | 🆓 / ⏫ |
+| [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) | Win, MacOS, Linux             | 🆓 / ⏫ |
+
 ### Videos
 
 | Resource                    | Price   |
 | --------------------------- | ------- |
 | [Coverr](https://coverr.co) | 🆓 / ⏫ |
+
+### Web Development Tools
+
+| Resource                                          | Description                                                                     | Platform          | Price |
+| ------------------------------------------------- | ------------------------------------------------------------------------------- | ----------------- | ----- |
+| [Responsively](https://responsively.app/download) | Well everything you need to be make pixel perfect responsive websites with ease | Win, MacOS, Linux | 🆓    |
+| [Small Dev Tools](https://smalldev.tools)         | A collection of small tools for web developers                                  | Web               | 🆓    |
