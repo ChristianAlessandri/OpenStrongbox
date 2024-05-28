@@ -33,6 +33,7 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
     - [Code Editors](#code-editors)
     - [Color Generators](#color-generators)
     - [Courses](#courses)
+    - [Development Tools](#development-tools)
     - [File Converters](#file-converters)
     - [Fonts](#fonts)
     - [Game Assets](#game-assets)
@@ -54,6 +55,7 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
     - [Video Editing Tools](#video-editing-tools)
     - [Videos](#videos)
     - [Web Development Tools](#web-development-tools)
+    - [Misc](#misc)
 
 ### AI Chat
 
@@ -70,6 +72,7 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
 | Resource                                   | Platform | Price   |
 | ------------------------------------------ | -------- | ------- |
 | [Adobe Firefly](https://firefly.adobe.com) | Web      | 🆓 / ⏫ |
+| [Leonardo.Ai](https://leonardo.ai)         | Web      | 🆓 / ⏫ |
 
 ### Book Collections
 
@@ -81,15 +84,17 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
 
 ### Browsers
 
-| Resource                                              | Platform                        | Price |
-| ----------------------------------------------------- | ------------------------------- | ----- |
-| [Brave](https://brave.com)                            | Win, macOS, Linux, Android, iOS | 🆓    |
-| [DuckDuckGo](https://duckduckgo.com)                  | Win, macOS, Android, iOS        | 🆓    |
-| [Google Chrome](https://www.google.com/chrome/)       | Win, macOS, Linux, Android, iOS | 🆓    |
-| [Firefox](https://www.mozilla.org/en-US/firefox/new/) | Win, macOS, Linux, Android, iOS | 🆓    |
-| [Opera](https://www.opera.com)                        | Win, macOS, Linux, Android, iOS | 🆓    |
-| [Opera GX](https://www.opera.com/gx)                  | Win, macOS, Android, iOS        | 🆓    |
-| [Tor Browser](https://www.torproject.org/download/)   | Win, macOS, Linux, Android      | 🆓    |
+| Resource                                                        | Platform                        | Price |
+| --------------------------------------------------------------- | ------------------------------- | ----- |
+| [Arc](https://arc.net/download)                                 | Win, MacOS, iOS                 | 🆓    |
+| [Brave](https://brave.com)                                      | Win, macOS, Linux, Android, iOS | 🆓    |
+| [DuckDuckGo](https://duckduckgo.com)                            | Win, macOS, Android, iOS        | 🆓    |
+| [Google Chrome](https://www.google.com/chrome/)                 | Win, macOS, Linux, Android, iOS | 🆓    |
+| [Firefox](https://www.mozilla.org/en-US/firefox/new/)           | Win, macOS, Linux, Android, iOS | 🆓    |
+| [Microsoft Edge](https://www.microsoft.com/en-us/edge/download) | Win, macOS, Linux, Android, iOS | 🆓    |
+| [Opera](https://www.opera.com)                                  | Win, macOS, Linux, Android, iOS | 🆓    |
+| [Opera GX](https://www.opera.com/gx)                            | Win, macOS, Android, iOS        | 🆓    |
+| [Tor Browser](https://www.torproject.org/download/)             | Win, macOS, Linux, Android      | 🆓    |
 
 ### Code Editors
 
@@ -113,6 +118,12 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
 | ------------------------------------ | ----- |
 | [Coursera](https://www.coursera.org) | 🛒    |
 | [Udemy](https://www.udemy.com)       | 🛒    |
+
+### Development Tools
+
+| Resource                                  | Description                                                | Platform | Price |
+| ----------------------------------------- | ---------------------------------------------------------- | -------- | ----- |
+| [Codelf](https://unbug.github.io/codelf/) | A search tool helps dev to solve the naming things problem | Web      | 🆓    |
 
 ### File Converters
 
@@ -146,6 +157,7 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
 | [Construct](https://www.construct.net)                       | Web                             | 🆓 / ⏫ |
 | [Game Maker](https://gamemaker.io)                           | Win, MacOS                      | 🆓 / ⏫ |
 | [Godot](https://godotengine.org/download)                    | Web, Win, MacOS, Linux, Android | 🆓      |
+| [RPG Maker](https://www.rpgmakerweb.com/downloads)           | Win, MacOS, Linux               | 💰      |
 | [Unity](https://unity.com/products)                          | Win, MacOS, Linux               | 🆓 / ⏫ |
 | [Unreal Engine](https://www.unrealengine.com/en-US/download) | Win, MacOS, Linux               | 🆓 / ⏫ |
 
@@ -281,3 +293,9 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
 | ------------------------------------------------- | ------------------------------------------------------------------------------- | ----------------- | ----- |
 | [Responsively](https://responsively.app/download) | Well everything you need to be make pixel perfect responsive websites with ease | Win, MacOS, Linux | 🆓    |
 | [Small Dev Tools](https://smalldev.tools)         | A collection of small tools for web developers                                  | Web               | 🆓    |
+
+### Misc
+
+| Resource                                   | Description                    | Platform | Price |
+| ------------------------------------------ | ------------------------------ | -------- | ----- |
+| [AlternativeTo](https://alternativeto.net) | Apps and software alternatives | Web      | 🆓    |
