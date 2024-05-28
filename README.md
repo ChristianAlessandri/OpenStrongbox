@@ -61,7 +61,7 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
 | ---------------------------------------- | ----------------- | ------- |
 | [ChatGPT](https://chatgpt.com)           | Web, Android, iOS | 🆓 / ⏫ |
 | [Claude](https://claude.ai)              | Web, iOS          | 🆓 / ⏫ |
-| [Copilor](https://copilot.microsoft.com) | Web, Android, iOS | 🆓 / ⏫ |
+| [Copilot](https://copilot.microsoft.com) | Web, Android, iOS | 🆓 / ⏫ |
 | [Gemini](https://gemini.google.com/app)  | Web               | 🆓 / ⏫ |
 | [Jasper](https://www.jasper.ai)          | Web               | 💰      |
 
