@@ -38,6 +38,7 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
     - [Fonts](#fonts)
     - [Game Assets](#game-assets)
     - [Game Engines](#game-engines)
+    - [Hosting](#hosting)
     - [Icons](#icons)
     - [IDEs](#ides)
     - [Illustrations](#illustrations)
@@ -48,13 +49,16 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
     - [Painting Programs](#painting-programs)
     - [Photo Editors](#photo-editors)
     - [Photo Search Engines](#photo-search-engines)
+    - [Presentation Makers](#presentation-makers)
     - [SVG Generators](#svg-generators)
     - [Text Editors](#text-editors)
     - [Tool Collections](#tool-collections)
     - [Vector Graphics Editors](#vector-graphics-editors)
     - [Video Editing Tools](#video-editing-tools)
     - [Videos](#videos)
+    - [Virtual Boards](#virtual-boards)
     - [Web Development Tools](#web-development-tools)
+    - [Mockups](#mockups)
     - [Misc](#misc)
 
 ### AI Chat
@@ -161,6 +165,16 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
 | [Unity](https://unity.com/products)                          | Win, MacOS, Linux               | 🆓 / ⏫ |
 | [Unreal Engine](https://www.unrealengine.com/en-US/download) | Win, MacOS, Linux               | 🆓 / ⏫ |
 
+### Hosting
+
+| Resource                                 | Price   |
+| ---------------------------------------- | ------- |
+| [Firebase](https://firebase.google.com)  | 🆓 / ⏫ |
+| [GitHub Pages](https://pages.github.com) | 🆓 / ⏫ |
+| [Heroku](https://www.heroku.com)         | 💰      |
+| [Netlify](https://www.netlify.com)       | 🆓 / ⏫ |
+| [Vercel](https://vercel.com)             | 🆓 / ⏫ |
+
 ### Icons
 
 | Resource                                              | Price   |
@@ -242,6 +256,13 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
 | [Cosmos](https://www.cosmos.so)        |
 | [Pinterest](https://www.pinterest.com) |
 
+### Presentation Makers
+
+| Resource                       | Platform | Price   |
+| ------------------------------ | -------- | ------- |
+| [Canva](https://www.canva.com) | Web      | 🆓 / ⏫ |
+| [Prezi](https://prezi.com)     | Web      | 🆓 / ⏫ |
+
 ### SVG Generators
 
 | Resource                                   | Price |
@@ -287,12 +308,25 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
 | --------------------------- | ------- |
 | [Coverr](https://coverr.co) | 🆓 / ⏫ |
 
+### Virtual Boards
+
+| Resource                             | Platform | Price   |
+| ------------------------------------ | -------- | ------- |
+| [Excalidraw](https://excalidraw.com) | Web      | 🆓 / ⏫ |
+| [Witeboard](https://witeboard.com)   | Web      | 🆓      |
+
 ### Web Development Tools
 
 | Resource                                          | Description                                                                     | Platform          | Price |
 | ------------------------------------------------- | ------------------------------------------------------------------------------- | ----------------- | ----- |
 | [Responsively](https://responsively.app/download) | Well everything you need to be make pixel perfect responsive websites with ease | Win, MacOS, Linux | 🆓    |
 | [Small Dev Tools](https://smalldev.tools)         | A collection of small tools for web developers                                  | Web               | 🆓    |
+
+### Mockups
+
+| Resource                                  | Platform | Price   |
+| ----------------------------------------- | -------- | ------- |
+| [Smart Mockups](https://smartmockups.com) | Web      | 🆓 / ⏫ |
 
 ### Misc
 
