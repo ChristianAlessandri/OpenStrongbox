@@ -14,12 +14,12 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
 
 ## How to Read this File
 
-| Icon    | Meaning                                                                                                                                 |
-| ------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| 🆓      | **Free** (_Occasionally, there may be specific wording that outlines the conditions under which the application is available for free_) |
-| 🆓 / ⏫ | **Free** with limitations, offers the option to **pay for more benefits**                                                               |
-| 💰      | **Variable price**                                                                                                                      |
-| 🛒      | **Marketplace** (Can contain both free and paid content within it)                                                                      |
+| Icon    | Meaning                                                                   |
+| ------- | ------------------------------------------------------------------------- |
+| 🆓      | **Free**                                                                  |
+| 🆓 / ⏫ | **Free** with limitations, offers the option to **pay for more benefits** |
+| 💰      | **Variable price**                                                        |
+| 🛒      | **Marketplace** (Can contain both free and paid content within it)        |
 
 ## Table of Contents
 
@@ -186,14 +186,14 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
 
 ### IDEs
 
-| Resource                                                       | Platform                    | Price                              |
-| -------------------------------------------------------------- | --------------------------- | ---------------------------------- |
-| [Android Studio](https://developer.android.com/studio)         | Win, MacOS, Linux, ChromeOS | 🆓                                 |
-| [Intellij IDEA](https://www.jetbrains.com/idea/download)       | Win, MacOS, Linux           | 🆓 only the Community Edition / ⏫ |
-| [Jupiter](https://jupyter.org/install)                         | Win, MacOS, Linux           | 🆓                                 |
-| [NetBeans](https://netbeans.apache.org/front/main/download/)   | Win, MacOS, Linux           | 🆓                                 |
-| [Selenium IDE](https://www.selenium.dev/selenium-ide/)         | Web                         | 🆓                                 |
-| [Visual Studio](https://visualstudio.microsoft.com/downloads/) | Win, MacOS, Linux           | 🆓 only the Community Edition / ⏫ |
+| Resource                                                       | Platform                    | Price   |
+| -------------------------------------------------------------- | --------------------------- | ------- |
+| [Android Studio](https://developer.android.com/studio)         | Win, MacOS, Linux, ChromeOS | 🆓      |
+| [Intellij IDEA](https://www.jetbrains.com/idea/download)       | Win, MacOS, Linux           | 🆓 / ⏫ |
+| [Jupiter](https://jupyter.org/install)                         | Win, MacOS, Linux           | 🆓      |
+| [NetBeans](https://netbeans.apache.org/front/main/download/)   | Win, MacOS, Linux           | 🆓      |
+| [Selenium IDE](https://www.selenium.dev/selenium-ide/)         | Web                         | 🆓      |
+| [Visual Studio](https://visualstudio.microsoft.com/downloads/) | Win, MacOS, Linux           | 🆓 / ⏫ |
 
 ### Illustrations
 
@@ -273,12 +273,12 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
 
 ### Text Editors
 
-| Resource                          | Platform                        | Price                    |
-| --------------------------------- | ------------------------------- | ------------------------ |
-| [Evernote](https://evernote.com)  | Win, MacOS, Android, iOS        | 🆓 / ⏫                  |
-| [Notion](https://www.notion.so)   | Web, Win, MacOS, Android, iOS   | 🆓 / ⏫                  |
-| [Obsidian](https://obsidian.md)   | Win, MacOS, Linux, Android, iOS | 🆓 for personal use / ⏫ |
-| [Trello](https://trello.com/home) | Web, Win, MacOS, Android, iOS   | 🆓 / ⏫                  |
+| Resource                          | Platform                        | Price   |
+| --------------------------------- | ------------------------------- | ------- |
+| [Evernote](https://evernote.com)  | Win, MacOS, Android, iOS        | 🆓 / ⏫ |
+| [Notion](https://www.notion.so)   | Web, Win, MacOS, Android, iOS   | 🆓 / ⏫ |
+| [Obsidian](https://obsidian.md)   | Win, MacOS, Linux, Android, iOS | 🆓 / ⏫ |
+| [Trello](https://trello.com/home) | Web, Win, MacOS, Android, iOS   | 🆓 / ⏫ |
 
 ### Tool Collections
 
