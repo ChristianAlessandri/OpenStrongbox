@@ -29,6 +29,7 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
     - [AI Chat](#ai-chat)
     - [AI Image Generator](#ai-image-generator)
     - [Book Collections](#book-collections)
+    - [Browsers](#browsers)
     - [Code Editors](#code-editors)
     - [Color Generators](#color-generators)
     - [Courses](#courses)
@@ -77,6 +78,18 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
 | [GoalClicker](https://goalkicker.com)                                  | 🆓    |
 | [SoftUni](https://softuni.org/learn/resources/free-programming-books/) | 🆓    |
 | [DevFreeBooks](https://devfreebooks.github.io)                         | 🆓    |
+
+### Browsers
+
+| Resource                                              | Platform                        | Price |
+| ----------------------------------------------------- | ------------------------------- | ----- |
+| [Brave](https://brave.com)                            | Win, macOS, Linux, Android, iOS | 🆓    |
+| [DuckDuckGo](https://duckduckgo.com)                  | Win, macOS, Android, iOS        | 🆓    |
+| [Google Chrome](https://www.google.com/chrome/)       | Win, macOS, Linux, Android, iOS | 🆓    |
+| [Firefox](https://www.mozilla.org/en-US/firefox/new/) | Win, macOS, Linux, Android, iOS | 🆓    |
+| [Opera](https://www.opera.com)                        | Win, macOS, Linux, Android, iOS | 🆓    |
+| [Opera GX](https://www.opera.com/gx)                  | Win, macOS, Android, iOS        | 🆓    |
+| [Tor Browser](https://www.torproject.org/download/)   | Win, macOS, Linux, Android      | 🆓    |
 
 ### Code Editors
 
