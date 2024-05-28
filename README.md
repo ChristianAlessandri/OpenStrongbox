@@ -17,7 +17,7 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
 | Icon    | Meaning                                                                   |
 | ------- | ------------------------------------------------------------------------- |
 | 🆓      | **Free**                                                                  |
-| 🆓 / ⏫ | **Free** with limitations, offers the option to **pay for more benefits** |
+| 🆓 / ⏫ | **Free with limitations**, offers the option to **pay for more benefits** |
 | 💰      | **Variable price**                                                        |
 | 🛒      | **Marketplace** (Can contain both free and paid content within it)        |
 
