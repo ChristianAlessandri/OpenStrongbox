@@ -46,6 +46,7 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
     - [Image Makers](#image-makers)
     - [Images](#images)
     - [Inspiration](#inspiration)
+    - [Markdown File Editors](#markdown-file-editors)
     - [Painting Programs](#painting-programs)
     - [Photo Editors](#photo-editors)
     - [Photo Search Engines](#photo-search-engines)
@@ -232,6 +233,12 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
 | ---------------------------------- |
 | [Behance](https://www.behance.net) |
 | [Dribbble](https://dribbble.com)   |
+
+### Markdown File Editors
+
+| Resource                          | Platform | Price |
+| --------------------------------- | -------- | ----- |
+| [StackEdit](https://stackedit.io) | Web      | 🆓    |
 
 ### Painting Programs
 
