@@ -100,6 +100,7 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
 | [Opera](https://www.opera.com)                                  | Win, macOS, Linux, Android, iOS | 🆓    |
 | [Opera GX](https://www.opera.com/gx)                            | Win, macOS, Android, iOS        | 🆓    |
 | [Tor Browser](https://www.torproject.org/download/)             | Win, macOS, Linux, Android      | 🆓    |
+| [Zen Browser](https://zen-browser.app/)                         | Win, macOS, Linux               | 🆓    |
 
 ### Code Editors
 
