@@ -51,6 +51,7 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
     - [Photo Editors](#photo-editors)
     - [Photo Search Engines](#photo-search-engines)
     - [Presentation Makers](#presentation-makers)
+    - [React Components](#react-components)
     - [SVG Generators](#svg-generators)
     - [Text Editors](#text-editors)
     - [Tool Collections](#tool-collections)
@@ -271,6 +272,12 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
 | ------------------------------ | -------- | ------- |
 | [Canva](https://www.canva.com) | Web      | 🆓 / ⏫ |
 | [Prezi](https://prezi.com)     | Web      | 🆓 / ⏫ |
+
+### React Components
+
+| Resource                             | Platform | Price |
+| ------------------------------------ | -------- | ----- |
+| [React Bits](https://reactbits.dev/) | Web      | 🆓    |
 
 ### SVG Generators
 
