@@ -89,9 +89,9 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
 
 | Resource                                                               | Price |
 | ---------------------------------------------------------------------- | ----- |
+| [DevFreeBooks](https://devfreebooks.github.io)                         | 🆓    |
 | [GoalClicker](https://goalkicker.com)                                  | 🆓    |
 | [SoftUni](https://softuni.org/learn/resources/free-programming-books/) | 🆓    |
-| [DevFreeBooks](https://devfreebooks.github.io)                         | 🆓    |
 
 ### Browsers
 
