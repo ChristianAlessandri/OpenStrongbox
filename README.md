@@ -59,6 +59,7 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
     - [Video Editing Tools](#video-editing-tools)
     - [Videos](#videos)
     - [Virtual Boards](#virtual-boards)
+    - [Web Components](#web-components)
     - [Web Development Tools](#web-development-tools)
     - [Mockups](#mockups)
     - [Misc](#misc)
@@ -275,9 +276,10 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
 
 ### React Components
 
-| Resource                             | Platform | Price |
-| ------------------------------------ | -------- | ----- |
-| [React Bits](https://reactbits.dev/) | Web      | 🆓    |
+| Resource                             | Platform | Price   |
+| ------------------------------------ | -------- | ------- |
+| [ChakraUI](https://chakra-ui.com/)   | Web      | 🆓 / ⏫ |
+| [React Bits](https://reactbits.dev/) | Web      | 🆓      |
 
 ### SVG Generators
 
@@ -330,6 +332,11 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
 | ------------------------------------ | -------- | ------- |
 | [Excalidraw](https://excalidraw.com) | Web      | 🆓 / ⏫ |
 | [Witeboard](https://witeboard.com)   | Web      | 🆓      |
+
+### Web Components
+
+| Resource | Platform | Price |
+| [ShadcnUI](https://ui.shadcn.com/) | Web | 🆓 |
 
 ### Web Development Tools
 
