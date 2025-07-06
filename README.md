@@ -72,9 +72,10 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
 | Resource                                 | Platform          | Price   |
 | ---------------------------------------- | ----------------- | ------- |
 | [ChatGPT](https://chatgpt.com)           | Web, Android, iOS | 🆓 / ⏫ |
-| [Claude](https://claude.ai)              | Web, iOS          | 🆓 / ⏫ |
+| [Claude](https://claude.ai)              | Web, Android, iOS | 🆓 / ⏫ |
 | [Copilot](https://copilot.microsoft.com) | Web, Android, iOS | 🆓 / ⏫ |
-| [Gemini](https://gemini.google.com/app)  | Web               | 🆓 / ⏫ |
+| [DeepSeek](https://www.deepseek.com/)    | Web, Android, iOS | 🆓 / ⏫ |
+| [Gemini](https://gemini.google.com/app)  | Web, Android, iOS | 🆓 / ⏫ |
 | [Jasper](https://www.jasper.ai)          | Web               | 💰      |
 
 ### AI Image Generator
