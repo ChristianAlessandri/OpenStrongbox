@@ -3,13 +3,14 @@
 > This file contains a comprehensive list of tools and assets
 > for your projects.
 
-**Attention**
+## Attention
 
 - Please note that the prices listed were accurate at the time of entry. Be sure to verify the current prices independently;
 - Some free programs may impose royalty fees if the applications created with them generate revenue beyond a certain threshold;
 - Some resource providers may impose various restrictions on the use of their content. Please review the licensing terms carefully.
 
-**Limitation of Liability**
+## Limitation of Liability
+
 The creators of this file assumes no responsibility for any errors, inaccuracies, or omissions contained herein. Users are advised to independently verify all information, including prices and licensing terms. The creator shall not be liable for any direct, indirect, incidental, or consequential damages arising from the use or reliance on this file.
 
 ## How to Read this File
@@ -24,6 +25,8 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
 ## Table of Contents
 
 - [Open Strongbox](#open-strongbox)
+  - [Attention](#attention)
+  - [Limitation of Liability](#limitation-of-liability)
   - [How to Read this File](#how-to-read-this-file)
   - [Table of Contents](#table-of-contents)
     - [AI Chat](#ai-chat)
