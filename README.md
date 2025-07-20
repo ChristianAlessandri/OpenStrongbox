@@ -110,12 +110,13 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
 
 ### Code Editors
 
-| Resource                                            | Platform          | Price |
-| --------------------------------------------------- | ----------------- | ----- |
-| [Notepad++](https://notepad-plus-plus.org)          | Win               | 🆓    |
-| [Project IDX](https://idx.google.com)               | Web               | 🆓    |
-| [Vim](https://www.vim.org)                          | Win, MacOS, Linux | 🆓    |
-| [Visual Studio Code](https://code.visualstudio.com) | Win, MacOS, Linux | 🆓    |
+| Resource                                            | Platform          | Price   |
+| --------------------------------------------------- | ----------------- | ------- |
+| [Cursor](https://cursor.com/)                       | Win, MacOS, Linux | 🆓 / ⏫ |
+| [Notepad++](https://notepad-plus-plus.org)          | Win               | 🆓      |
+| [Project IDX](https://idx.google.com)               | Web               | 🆓      |
+| [Vim](https://www.vim.org)                          | Win, MacOS, Linux | 🆓      |
+| [Visual Studio Code](https://code.visualstudio.com) | Win, MacOS, Linux | 🆓      |
 
 ### Color Generators
 
@@ -175,22 +176,25 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
 
 ### Hosting
 
-| Resource                                 | Price   |
-| ---------------------------------------- | ------- |
-| [Firebase](https://firebase.google.com)  | 🆓 / ⏫ |
-| [GitHub Pages](https://pages.github.com) | 🆓 / ⏫ |
-| [Heroku](https://www.heroku.com)         | 💰      |
-| [Netlify](https://www.netlify.com)       | 🆓 / ⏫ |
-| [Vercel](https://vercel.com)             | 🆓 / ⏫ |
+| Resource                                   | Price   |
+| ------------------------------------------ | ------- |
+| [AWS](https://aws.amazon.com/it/websites/) | 💰      |
+| [Firebase](https://firebase.google.com)    | 🆓 / ⏫ |
+| [GitHub Pages](https://pages.github.com)   | 🆓 / ⏫ |
+| [Heroku](https://www.heroku.com)           | 💰      |
+| [Hostinger](https://www.hostinger.com/it)  | 💰      |
+| [Netlify](https://www.netlify.com)         | 🆓 / ⏫ |
+| [Vercel](https://vercel.com)               | 🆓 / ⏫ |
 
 ### Icons
 
-| Resource                                              | Price   |
-| ----------------------------------------------------- | ------- |
-| [Feather Icons](https://feathericons.com)             | 🆓      |
-| [Font Awesome](https://fontawesome.com/icons)         | 🆓 / ⏫ |
-| [The Noun Project](https://thenounproject.com/icons/) | 🆓 / ⏫ |
-| [Untitled UI Icons](https://www.untitledui.com/icons) | 🆓 / ⏫ |
+| Resource                                                | Price   |
+| ------------------------------------------------------- | ------- |
+| [Feather Icons](https://feathericons.com)               | 🆓      |
+| [Font Awesome](https://fontawesome.com/icons)           | 🆓 / ⏫ |
+| [The Noun Project](https://thenounproject.com/icons/)   | 🆓 / ⏫ |
+| [The Thiings Collection](https://www.thiings.co/things) | 🆓      |
+| [Untitled UI Icons](https://www.untitledui.com/icons)   | 🆓 / ⏫ |
 
 ### IDEs
 
@@ -227,20 +231,43 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
 
 ### Images
 
-| Resource                               | Price   |
-| -------------------------------------- | ------- |
-| [Adobe Stock](https://stock.adobe.com) | 💰      |
-| [Freepik](https://www.freepik.com)     | 🆓 / ⏫ |
-| [Pexels](https://www.pexels.com)       | 🆓      |
-| [Pixabay](https://pixabay.com)         | 🆓      |
-| [Unsplash](https://unsplash.com)       | 🆓 / ⏫ |
+| Resource                                    | Price   |
+| ------------------------------------------- | ------- |
+| [Adobe Stock](https://stock.adobe.com)      | 💰      |
+| [Clean PNG](https://www.cleanpng.com/)      | 🆓      |
+| [Freepik](https://www.freepik.com)          | 🆓 / ⏫ |
+| [Gratisography](https://gratisography.com/) | 🆓      |
+| [MorgueFile](https://morguefile.com/)       | 🆓      |
+| [NegativeSpace](https://negativespace.co/)  | 🆓      |
+| [Openverse](https://openverse.org/)         | 🆓      |
+| [Pexels](https://www.pexels.com)            | 🆓      |
+| [PicJumbo](https://picjumbo.com/)           | 🆓 / ⏫ |
+| [Pixabay](https://pixabay.com)              | 🆓      |
+| [PNG Egg](https://www.pngegg.com)           | 🆓      |
+| [PNGkey](https://pngkey.com/)               | 🆓      |
+| [PNG Tree](https://pngtree.com/)            | 🆓      |
+| [SimilarPNG](https://similarpng.com/)       | 🆓 / ⏫ |
+| [StickPNG](https://www.stickpng.com/)       | 🆓      |
+| [StockSnap](https://stocksnap.io/)          | 🆓      |
+| [StockVault](https://www.stockvault.net/)   | 🆓 / ⏫ |
+| [Unsplash](https://unsplash.com)            | 🆓 / ⏫ |
 
 ### Inspiration
 
-| Resource                           |
-| ---------------------------------- |
-| [Behance](https://www.behance.net) |
-| [Dribbble](https://dribbble.com)   |
+| Resource                                              |
+| ----------------------------------------------------- |
+| [Awwwards](https://www.awwwards.com/)                 |
+| [Behance](https://www.behance.net)                    |
+| [Cofolios](https://www.cofolios.com/)                 |
+| [Dribbble](https://dribbble.com)                      |
+| [Godly](https://godly.website/)                       |
+| [Landdding](https://landdding.com/)                   |
+| [LandingFolio](https://www.landingfolio.com/)         |
+| [Mobbin](https://mobbin.com/discover/apps/ios/latest) |
+| [Nicelydone](https://nicelydone.club/)                |
+| [One Page Love](https://onepagelove.com/)             |
+| [SiteInspire](https://www.siteinspire.com/)           |
+| [Webframe](https://webframe.xyz/)                     |
 
 ### Markdown File Editors
 
@@ -340,6 +367,7 @@ The creators of this file assumes no responsibility for any errors, inaccuracies
 ### Web Components
 
 | Resource | Platform | Price |
+| [FreeFrontend](https://freefrontend.com/) | Web | 🆓 |
 | [ShadcnUI](https://ui.shadcn.com/) | Web | 🆓 |
 
 ### Web Development Tools
